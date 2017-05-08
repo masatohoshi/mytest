@@ -3,6 +3,7 @@ package mytest;
 public class Test {
 
   public static void main(String[] args){
-    System.out.println("test main");
+    String aaa = "test man(Merge6)";
+    System.out.println(aaa);
   }
 }
